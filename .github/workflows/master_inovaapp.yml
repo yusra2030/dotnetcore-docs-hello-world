@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'inovaapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8C44DD014E74D478D6B10D685543083 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FE12A40C296540409CCCCFCB7BEDE2DE }}
           package: .
